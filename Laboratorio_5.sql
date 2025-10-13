@@ -1,7 +1,7 @@
 -- ============================================================
--- LAB: Paquetes y Disparadores (SOLO EJERCICIOS)
--- Curso: Base de Datos II - UNMSM
--- Tema: Packages y Triggers sobre HR + tablas auxiliares
+-- LAB: Paquetes y Disparadores
+-- ALUMNO: AXEL ANDREE CUEVA ALCALA
+-- CODIGO: 23200093
 -- ============================================================
 
 SET SERVEROUTPUT ON;
